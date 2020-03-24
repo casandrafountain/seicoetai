@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sheeshapha.thehomeladder.com/sitemap.xml
